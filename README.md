@@ -26,4 +26,4 @@ Identified a critical revenue leak in the **South Region** (3.0 engagement, 100%
 * `Cleaned_Employee_Data.csv`: The processed dataset used for modeling
 * `Engagement_vs_Sales_Chart.png`: Visual evidence of the engagement-revenue link
 
-Initial commit of project summary
+
