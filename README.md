@@ -9,6 +9,13 @@ Identified a critical revenue leak in the **South Region** (3.0 engagement, 100%
 * **Predictive Power:** Engagement alone explains **53%** of all sales variance ($R^2 = 0.53$)
 * **Recovery Potential:** Improving the South Region to company averages would recover **~$8,900 per store/month**
 
+### Visual Analysis
+**1. Relationship between Engagement and Sales**
+![Engagement vs Sales](Engagement_vs_Sales_Chart.png)
+
+**2. Model Validation (Residual Analysis)**
+![Model Residuals](Model_Validation_Residuals.png)
+
 
 
 ## 🛠️ Skills Demonstrated
