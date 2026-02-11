@@ -5,9 +5,9 @@
 Identified a critical revenue leak in the **South Region** (3.0 engagement, 100% turnover) and built a regression model proving that employee engagement is the primary driver of sales performance.
 
 ## 🚀 Key Results
-* **The ROI:** Every **1-point increase** in engagement predicts **+$2,230.30** in monthly sales per site.
-* **Predictive Power:** Engagement alone explains **53%** of all sales variance ($R^2 = 0.53$).
-* **Recovery Potential:** Improving the South Region to company averages would recover **~$8,900 per store/month**.
+* **The ROI:** Every **1-point increase** in engagement predicts **+$2,230.30** in monthly sales per site
+* **Predictive Power:** Engagement alone explains **53%** of all sales variance ($R^2 = 0.53$)
+* **Recovery Potential:** Improving the South Region to company averages would recover **~$8,900 per store/month**
 
 
 
