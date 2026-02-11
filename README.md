@@ -32,6 +32,6 @@ Identified a critical revenue leak in the **South Region** (3.0 engagement, 100%
 * [IFD analysis.R](analysis_script.R) - Full R code from cleaning to regression
 * [Cleaned_Employee_Data.csv](Cleaned_Employee_Data.csv) - The processed dataset used for modeling
 * [Engagement_vs_Sales_Chart.png](Engagement_vs_Sales_Chart.png) - Visual evidence of the engagement-revenue link
-* ### **Model Validation (Residual Analysis)**
-![Model Validation](Model_Validation_Residuals.png)
+* [Model_Validation_Residuals.png](Model_Validation_Residuals.png) - Statistical proof of model accuracy (Residual Analysis)
+
 
